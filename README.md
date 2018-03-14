@@ -4,10 +4,14 @@ Mobile robots tests and stuff
 # Roadmap
 1.-Install Ubuntu 16.04 						              ok
 
-2.-Install python necesary dependencies           ok
+2.-Install python necesary dependencies           				      ok
+
 3.-Install ROS and Gazebo						              ok
-4.-Configure ROS with python					            ok
-5.-Try ROS and python						                  ok
+
+4.-Configure ROS with python					            	      ok
+
+5.-Try ROS and python						                      ok
+
 6.-Try gazebo								                      no
 7.-Test an algorithm for map creation				      no
 8.-Modify a bit the algorithm	map creation				no
