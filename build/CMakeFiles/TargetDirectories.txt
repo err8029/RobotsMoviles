@@ -41,6 +41,13 @@
 /home/eric/catkin_ws/build/mybot_gazebo/CMakeFiles/install/local.dir
 /home/eric/catkin_ws/build/mybot_gazebo/CMakeFiles/test.dir
 /home/eric/catkin_ws/build/mybot_gazebo/CMakeFiles/edit_cache.dir
+/home/eric/catkin_ws/build/mybot_navigation/CMakeFiles/list_install_components.dir
+/home/eric/catkin_ws/build/mybot_navigation/CMakeFiles/install.dir
+/home/eric/catkin_ws/build/mybot_navigation/CMakeFiles/rebuild_cache.dir
+/home/eric/catkin_ws/build/mybot_navigation/CMakeFiles/install/strip.dir
+/home/eric/catkin_ws/build/mybot_navigation/CMakeFiles/install/local.dir
+/home/eric/catkin_ws/build/mybot_navigation/CMakeFiles/test.dir
+/home/eric/catkin_ws/build/mybot_navigation/CMakeFiles/edit_cache.dir
 /home/eric/catkin_ws/build/my_package/CMakeFiles/list_install_components.dir
 /home/eric/catkin_ws/build/my_package/CMakeFiles/rebuild_cache.dir
 /home/eric/catkin_ws/build/my_package/CMakeFiles/edit_cache.dir

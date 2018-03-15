@@ -120,6 +120,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/eric/catkin_ws/build/mybot_control/cmake_install.cmake")
   include("/home/eric/catkin_ws/build/mybot_description/cmake_install.cmake")
   include("/home/eric/catkin_ws/build/mybot_gazebo/cmake_install.cmake")
+  include("/home/eric/catkin_ws/build/mybot_navigation/cmake_install.cmake")
   include("/home/eric/catkin_ws/build/my_package/cmake_install.cmake")
 
 endif()

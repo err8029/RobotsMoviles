@@ -389,6 +389,24 @@ mybot_gazebo/preinstall:
 .PHONY : mybot_gazebo/preinstall
 
 #=============================================================================
+# Directory level rules for directory mybot_navigation
+
+# Convenience name for "all" pass in the directory.
+mybot_navigation/all:
+
+.PHONY : mybot_navigation/all
+
+# Convenience name for "clean" pass in the directory.
+mybot_navigation/clean:
+
+.PHONY : mybot_navigation/clean
+
+# Convenience name for "preinstall" pass in the directory.
+mybot_navigation/preinstall:
+
+.PHONY : mybot_navigation/preinstall
+
+#=============================================================================
 # Directory level rules for directory my_package
 
 # Convenience name for "all" pass in the directory.

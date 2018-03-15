@@ -21,6 +21,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "mybot_control/catkin_generated/package.cmake"
   "mybot_description/catkin_generated/package.cmake"
   "mybot_gazebo/catkin_generated/package.cmake"
+  "mybot_navigation/catkin_generated/package.cmake"
   "/home/eric/catkin_ws/devel/share/my_package/cmake/my_package-msg-paths.cmake"
   "/home/eric/catkin_ws/src/CMakeLists.txt"
   "/home/eric/catkin_ws/src/my_package/CMakeLists.txt"
@@ -31,6 +32,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/eric/catkin_ws/src/mybot_description/package.xml"
   "/home/eric/catkin_ws/src/mybot_gazebo/CMakeLists.txt"
   "/home/eric/catkin_ws/src/mybot_gazebo/package.xml"
+  "/home/eric/catkin_ws/src/mybot_navigation/CMakeLists.txt"
+  "/home/eric/catkin_ws/src/mybot_navigation/package.xml"
   "/opt/ros/kinetic/share/catkin/cmake/../package.xml"
   "/opt/ros/kinetic/share/catkin/cmake/all.cmake"
   "/opt/ros/kinetic/share/catkin/cmake/assert.cmake"
@@ -191,6 +194,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "mybot_control/CMakeFiles/CMakeDirectoryInformation.cmake"
   "mybot_description/CMakeFiles/CMakeDirectoryInformation.cmake"
   "mybot_gazebo/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "mybot_navigation/CMakeFiles/CMakeDirectoryInformation.cmake"
   "my_package/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
