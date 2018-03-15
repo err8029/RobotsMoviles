@@ -17,8 +17,8 @@ Mobile robots tests and stuff
 
 3.-Algorithm creation
 
-	3.1.-Test an algorithm for map creation						      doing
-	3.2.-Modify a bit the algorithm	map creation					      no
+	3.1.-Test an algorithm for map creation						      ok
+	3.2.-Modify a bit the algorithm	map creation					      doing
 	3.3.-Test an algorithm for map exploration					      doing
 	3.4.-Modify a bit the algorithm map exploration					      no
 
@@ -55,5 +55,5 @@ odometry and comands (done)
 
 start working with sensors (done)
 
-try ROS gmap (doing)
+try ROS gmap navigation (experiencing errors, the robot posicionates badly the map)
           
