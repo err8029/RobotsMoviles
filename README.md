@@ -13,13 +13,13 @@ Mobile robots tests and stuff
 
 	2.1.-Configure ROS with python					            	      ok
 	2.2.-Try ROS and python						                      ok
-	2.3.-Try gazebo 								      doing
+	2.3.-Try gazebo 								      ok
 
 3.-Algorithm creation
 
-	3.1.-Test an algorithm for map creation						      no
+	3.1.-Test an algorithm for map creation						      doing
 	3.2.-Modify a bit the algorithm	map creation					      no
-	3.3.-Test an algorithm for map exploration					      no
+	3.3.-Test an algorithm for map exploration					      doing
 	3.4.-Modify a bit the algorithm map exploration					      no
 
 4.-Advanced algorithms, geometric criteria
@@ -49,9 +49,11 @@ Mobile robots tests and stuff
 
 
 # Current state
-watch (part2): https://www.youtube.com/channel/UCjR5t4lLFg4xbLTKW9d_FdA
+watch (part3): https://www.youtube.com/channel/UCjR5t4lLFg4xbLTKW9d_FdA
 
 odometry and comands (done)
 
-start working with sensors (not)
+start working with sensors (done)
+
+try ROS gmap (doing)
           
